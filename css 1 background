@@ -1,0 +1,14 @@
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;style&gt;
+h2,p{
+background-color: #b0d4de;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h2&gt;yuvaraj&lt;/h2&gt;
+&lt;p&gt;Trainer&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
