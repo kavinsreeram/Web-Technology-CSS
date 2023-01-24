@@ -1,0 +1,15 @@
+# CSS background color
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+h2,p{  
+    background-color: #b0d4de;  
+}  
+</style>  
+</head>  
+<body>  
+<h2>Kavin</h2>  
+<p>Sreeram</p>  
+</body>  
+</html>  
